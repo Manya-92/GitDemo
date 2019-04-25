@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="53" started-at="2019-04-12T06:41:40Z" finished-at="2019-04-12T06:41:40Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="53" started-at="2019-04-12T06:41:40Z" finished-at="2019-04-12T06:41:40Z">
+      <class name="qaclickacademy.APITest">
+        <test-method status="PASS" signature="APItest()[pri:0, instance:qaclickacademy.APITest@6442b0a6]" name="APItest" duration-ms="10" started-at="2019-04-12T06:41:40Z" finished-at="2019-04-12T06:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APItest -->
+        <test-method status="PASS" signature="APItest2()[pri:0, instance:qaclickacademy.APITest@6442b0a6]" name="APItest2" duration-ms="2" started-at="2019-04-12T06:41:40Z" finished-at="2019-04-12T06:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APItest2 -->
+      </class> <!-- qaclickacademy.APITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
