@@ -13,7 +13,8 @@ public class WebTest {
 	
 	@Test
 	public void Webtest2() {
-		System.out.println("Webtest2");
+		System.out.println("Webtest4");
+		System.out.println("Webtest5");
 	}
 
 }
